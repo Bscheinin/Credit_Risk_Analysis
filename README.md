@@ -12,7 +12,7 @@ The results for each of the six machine learning techniques are shown below.
 * **Naive Random Oversampling** duplicates the 'high_risk' scores in the training phase of the model in an attempt to balance the dataset. This methods accuracy score is 66%, the percision score shows a high false positive rate while the recall score of 60% means that nearly 40% of all actual 'high_risk' applicants were identified as such. 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Bscheinin/Credit_Risk_Analysis/blob/main/Images/Naive%20Over.PNG">
+  <img width="600" height="300" src="https://github.com/Bscheinin/Credit_Risk_Analysis/blob/main/Images/Naive%20Over.PNG">
 </p>
 
 ![Naive Random](https://github.com/Bscheinin/Credit_Risk_Analysis/blob/main/Images/Naive%20Over.PNG)
